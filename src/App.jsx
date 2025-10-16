@@ -32,6 +32,7 @@ export default function App() {
           <a href="tel:+919373527498" className="text-sm">📞 +91 93735 27498</a>
           <a href="mailto:tejasndeo@gmail.com" className="text-sm">✉️ tejasndeo@gmail.com</a>
           <a href="https://www.linkedin.com/in/tejas-deo-32275217b/" target="_blank" rel="noreferrer" className="text-sm">🔗 LinkedIn</a>
+          <a href="https://github.com/tejasdeo" target="_blank" rel="noreferrer" className="text-sm">🔗 GitHub</a>
           <DarkToggle /> 
         </div>
       </header>
