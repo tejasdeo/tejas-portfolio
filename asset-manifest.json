@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tejas-portfolio/static/css/main.8029efbf.css",
+    "main.js": "/tejas-portfolio/static/js/main.20a56830.js",
+    "index.html": "/tejas-portfolio/index.html",
+    "main.8029efbf.css.map": "/tejas-portfolio/static/css/main.8029efbf.css.map",
+    "main.20a56830.js.map": "/tejas-portfolio/static/js/main.20a56830.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8029efbf.css",
+    "static/js/main.20a56830.js"
+  ]
+}
