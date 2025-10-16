@@ -14,8 +14,8 @@ function DarkToggle() {
   return (
     <button
       onClick={() => setMode(prev => prev === 'light' ? 'dark' : 'light')}
-      className="w-full sm:w-auto text-sm sm:text-base py-2 px-4 rounded-xl">
-      {mode === 'light' ? '☀️Light Theme' : '🌙 Dark Theme'}
+      className="fixed top-4 right-4">
+      {mode === 'light' ? '☀️Light' : '🌙 Dark'}
     </button>
   );
 }
