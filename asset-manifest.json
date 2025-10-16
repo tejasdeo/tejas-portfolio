@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tejas-portfolio/static/css/main.3e85d302.css",
-    "main.js": "/tejas-portfolio/static/js/main.8f31183f.js",
+    "main.css": "/tejas-portfolio/static/css/main.68d59078.css",
+    "main.js": "/tejas-portfolio/static/js/main.3173aa3f.js",
     "index.html": "/tejas-portfolio/index.html",
-    "main.3e85d302.css.map": "/tejas-portfolio/static/css/main.3e85d302.css.map",
-    "main.8f31183f.js.map": "/tejas-portfolio/static/js/main.8f31183f.js.map"
+    "main.68d59078.css.map": "/tejas-portfolio/static/css/main.68d59078.css.map",
+    "main.3173aa3f.js.map": "/tejas-portfolio/static/js/main.3173aa3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e85d302.css",
-    "static/js/main.8f31183f.js"
+    "static/css/main.68d59078.css",
+    "static/js/main.3173aa3f.js"
   ]
 }
