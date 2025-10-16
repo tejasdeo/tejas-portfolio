@@ -15,7 +15,7 @@ function DarkToggle() {
     <button
       onClick={() => setMode(prev => prev === 'light' ? 'dark' : 'light')}
       className="w-full sm:w-auto text-sm sm:text-base py-2 px-4 rounded-xl">
-      {mode === 'light' ? '🌙 Dark' : '☀️ Light'}
+      {mode === 'light' ? '☀️Light Theme' : '🌙 Dark Theme'}
     </button>
   );
 }
@@ -25,14 +25,14 @@ export default function App() {
     <div className="px-4 sm:px-8 md:px-12 lg:px-20 py-8">
       <header className="flex flex-col sm:flex-row items-center sm:justify-between gap-4">
         <div>
-          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold">Tejas Deo</h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-center">Tejas Deo </h1>
           <p className="text-sm sm:text-base leading-relaxed">Software Engineer — Java | Spring Boot | AWS | DevOps</p>
         </div>
         <div className="flex flex-col sm:flex-row items-center sm:justify-between gap-4">
           <a href="tel:+919373527498" className="text-sm">📞 +91 93735 27498</a>
           <a href="mailto:tejasndeo@gmail.com" className="text-sm">✉️ tejasndeo@gmail.com</a>
           <a href="https://www.linkedin.com/in/tejas-deo-32275217b/" target="_blank" rel="noreferrer" className="text-sm">🔗 LinkedIn</a>
-          <DarkToggle />
+          <DarkToggle /> 
         </div>
       </header>
 
