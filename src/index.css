@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html.light { --bg: #f8fafc; --text: #0f172a; }
+html.dark  { --bg: #0b1220; --text: #e6eef8; }
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+.card {
+  background-color: rgba(255,255,255,0.04);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 6px 18px rgba(2,6,23,0.08);
+}
