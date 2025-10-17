@@ -88,7 +88,7 @@ export default function App() {
           </div>
 
           <div className="card text-center">
-            <a href="${process.env.PUBLIC_URL}/Tejas_Deo_Backend_Engineer.pdf" download="Tejas_Deo_Backend_Engineer.pdf" className="inline-block px-3 py-2 border rounded-md">⬇️ Download Resume</a>
+            <a href="https://tejasdeo.github.io/tejas-portfolio/Tejas_Deo_Backend_Engineer.pdf" download="Tejas_Deo_Backend_Engineer.pdf" target="_blank" rel="noopener noreferrer"className="inline-block px-3 py-2 border rounded-md">⬇️ Download Resume</a>
           </div>
         </aside>
       </main>
